@@ -1,4 +1,4 @@
-var http = require('http');  
+/*var http = require('http');  
 //create a server object:  
   
 http.createServer(function (req, res) {  
@@ -6,4 +6,5 @@ http.createServer(function (req, res) {
     res.end();  
 }).listen(5000); 
   
-console.log('Server running at 5000'); 
+console.log('Server running at 5000'); */
+console.log('Server running at 5000');
